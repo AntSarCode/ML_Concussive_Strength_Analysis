@@ -65,3 +65,8 @@ This project was developed to:
 ## License
 
 This project is licensed under the MIT License. You are free to use, adapt, and distribute it for educational or professional purposes.
+
+Author
+AntSarCode
+Statistical Thinking Project
+GitHub: https://github.com/AntSarCode
